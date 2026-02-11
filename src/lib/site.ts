@@ -17,6 +17,7 @@ export const site = {
     "İş makinesi kiralama, ikinci el satış, servis/bakım ve yedek parça çözümlerinde kurumsal çözüm ortağı.",
   phone: "0538 052 88 82",
   phoneHref: "tel:+905380528882",
+  emailHref: "mailto:info@wolfsgrup.com",
   address: "Meşrutiyet Mahallesi Konur Sokak 59/9",
   workingHours: "Hafta içi 08:30 - 18:30 | Cumartesi 09:00 - 14:00",
 };
